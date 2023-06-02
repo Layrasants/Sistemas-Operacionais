@@ -1,2 +1,2 @@
 # Sistemas-Operacionais
-Este repositório é para armazenamento de atividades, colaborações e provas da Disciplina de Sistemas Operacionais
+Este repositório é voltado para as atividades da Disciplina de Sistemas OPeracionais, armazenando-as de forma organizada.
